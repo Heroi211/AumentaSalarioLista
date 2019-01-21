@@ -1,0 +1,7 @@
+C:\Users\gabriel.drumond\source\repos\AumentaSalarioLista\AumentaSalarioLista\bin\Debug\AumentaSalarioLista.exe.config
+C:\Users\gabriel.drumond\source\repos\AumentaSalarioLista\AumentaSalarioLista\bin\Debug\AumentaSalarioLista.exe
+C:\Users\gabriel.drumond\source\repos\AumentaSalarioLista\AumentaSalarioLista\bin\Debug\AumentaSalarioLista.pdb
+C:\Users\gabriel.drumond\source\repos\AumentaSalarioLista\AumentaSalarioLista\obj\Debug\AumentaSalarioLista.csprojAssemblyReference.cache
+C:\Users\gabriel.drumond\source\repos\AumentaSalarioLista\AumentaSalarioLista\obj\Debug\AumentaSalarioLista.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.drumond\source\repos\AumentaSalarioLista\AumentaSalarioLista\obj\Debug\AumentaSalarioLista.exe
+C:\Users\gabriel.drumond\source\repos\AumentaSalarioLista\AumentaSalarioLista\obj\Debug\AumentaSalarioLista.pdb
